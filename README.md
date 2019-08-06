@@ -1,7 +1,7 @@
 # git-reposit
 Autopoiesis
 
-The first programme (autopoiesis.py) takes as inputs :
+The first programme (autopoiesis.py) takes as inputs :\n
 1)number of time steps
 2)disintegration rate
 3)length (n) of the (n times n) grid
