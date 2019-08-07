@@ -13,6 +13,4 @@ The second program (autopoiesis1.py) takes as inputs :
 3)length (n) of the (n times n) grid.
 Then it creates a grid full of S particles with a K particle at the middle.
 
-In both cases we g
-The fist one is sufficient to test our code on small lengths.
-For the needs of the project we should create a list of different grids that the program can access and run.
+
