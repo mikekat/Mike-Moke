@@ -13,4 +13,4 @@ The second program (autopoiesis1.py) takes as inputs :
 3)length (n) of the (n times n) grid.
 Then it creates a grid full of S particles with a K particle at the middle.
 
-
+The test file shows 100 time steps from one run of autopoiesis1.py
